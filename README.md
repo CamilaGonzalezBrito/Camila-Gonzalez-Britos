@@ -19,7 +19,7 @@ Git • GitHub • Postman • GitFlow • VSCode • Codespaces
 
 ## Proyecto destacado
 
-### GCAP — Sistema de gestión para clínicas
+### GECAP — Sistema de gestión para clínicas
 
 Aplicación Full-Stack enfocada en la gestión de citas médicas y pacientes.
 
